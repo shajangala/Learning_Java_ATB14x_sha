@@ -3,7 +3,7 @@ package ex_04_Java_Basics;
 public class ninth_table_java_program {
     public static void main(String[] args) {
         int i=9;
-        System.out.printf("Printing 9th Table using Java Program");
+        System.out.printf("Printing 9th Table using Java Program ");
         System.out.println();
         System.out.printf("%d *  1 = %d",i,i*1);
         System.out.println();
