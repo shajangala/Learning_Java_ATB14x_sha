@@ -1,4 +1,4 @@
-package ex_04_Java_Basics;
+package ex_04_Operators;
 
 public class Ninth_table_java_program {
     public static void main(String[] args) {

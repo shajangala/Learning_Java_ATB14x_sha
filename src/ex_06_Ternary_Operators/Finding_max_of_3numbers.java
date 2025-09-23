@@ -1,4 +1,4 @@
-package ex_05_Ternary_Operators;
+package ex_06_Ternary_Operators;
 
 public class Finding_max_of_3numbers {
     public static void main(String[] args) {

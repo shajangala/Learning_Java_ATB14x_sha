@@ -1,4 +1,4 @@
-package ex_05_Ternary_Operators;
+package ex_06_Ternary_Operators;
 
 public class Checking_number_even_odd {
     public static void main(String[] args) {
