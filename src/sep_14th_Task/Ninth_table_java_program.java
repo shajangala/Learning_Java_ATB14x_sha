@@ -1,4 +1,4 @@
-package ex_04_Operators;
+package sep_14th_Task;
 
 public class Ninth_table_java_program {
     public static void main(String[] args) {

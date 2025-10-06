@@ -1,6 +1,6 @@
-package ex_06_Ternary_Operators;
+package sep_20th_Task;
 
-public class Finding_max_of_3numbers {
+public class Lab067_TO_Finding_max_of_3numbers {
     public static void main(String[] args) {
         int n1=2,n2=9,n3=-11;
         int result=(n1>n2)?((n1>n3)?n1:n3):((n2>n3)?n2:n3);

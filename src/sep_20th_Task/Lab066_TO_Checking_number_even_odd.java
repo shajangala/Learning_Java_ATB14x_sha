@@ -1,6 +1,6 @@
-package ex_06_Ternary_Operators;
+package sep_20th_Task;
 
-public class Checking_number_even_odd {
+public class Lab066_TO_Checking_number_even_odd {
     public static void main(String[] args) {
         int number=23;
         String S=(number%2==0)?"even number.":"odd number.";
