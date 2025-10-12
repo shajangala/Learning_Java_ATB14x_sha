@@ -5,8 +5,8 @@ import java.util.Scanner;
 public class Day_of_the_Week_Switch {
     public static void main(String[] args) {
         System.out.println("Please enter a number from 1-7:");
-        Scanner scanner = new Scanner(System.in);
-        if (scanner.hasNextInt())
+        Scanner scanner = new Scanner(System.in); //taking input from the user
+        if (scanner.hasNextInt()) //checking the user input is integer or not
         {
             int i = scanner.nextInt();
             switch (i)
@@ -33,11 +33,13 @@ public class Day_of_the_Week_Switch {
                     System.out.println("Sunday");
                     break;
                 default:
+                    // if the user enter the integer other than 1-7 the following error message will display
                     System.out.println("Invalid week day received, please select the number from 1-7");
             }
         }
         else
         {
+            // if the user enter the invalid input like string then the following error message will dispaly
             System.out.println("Please enter a valid input from 1-7 only. Thank you");
         }
     }
