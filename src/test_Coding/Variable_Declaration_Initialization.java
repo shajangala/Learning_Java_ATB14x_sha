@@ -1,4 +1,6 @@
-public class test_oct_12th_coding {
+package test_Coding;
+
+public class Variable_Declaration_Initialization {
     public static void main(String[] args) {
         int i=25;
         double d = 3.14;
