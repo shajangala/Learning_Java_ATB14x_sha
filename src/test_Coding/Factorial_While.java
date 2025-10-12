@@ -7,11 +7,11 @@ public class Factorial_While {
         if (scanner.hasNextInt())
         {
             int n = scanner.nextInt();
-            if(n>0 && n<Integer.MAX_VALUE)
+            if(n >= 0 && n<Integer.MAX_VALUE)
             {
 
                 int fact = 1;
-                if (n == 1) {
+                if (n == 0) {
                     fact = 1;
                 }
                 int i=1;
