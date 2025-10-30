@@ -1,4 +1,4 @@
-package Oct_10th_Task;
+package oct_10th_Task;
 import java.util.*;
 
 public class Number_Even_Odd {
